@@ -18,8 +18,5 @@ public class task_1293 {
 
         out.println(result);
         out.flush();
-
-
-
     }
 }
